@@ -2,7 +2,7 @@ import * as Collapsible from "@radix-ui/react-collapsible";
 import { ChevronDown } from "lucide-react";
 
 import { Lesson } from "./Lesson";
-import { useStore } from "../zustand-store";
+import { useStore } from "../store";
 
 interface ModuleProps {
   moduleIndex: number;

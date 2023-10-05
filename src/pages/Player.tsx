@@ -4,7 +4,7 @@ import { MessageCircle } from "lucide-react";
 import { Header } from "../components/Header";
 import { Video } from "../components/Video";
 import { Module } from "../components/Module";
-import { useCurrentLesson, useStore } from "../zustand-store";
+import { useCurrentLesson, useStore } from "../store";
 
 export function Player() {
   const { course, load } = useStore((store) => {
