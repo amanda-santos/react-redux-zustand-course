@@ -27,7 +27,7 @@
 ## 📝 About the project
 
 <p>
-   This is a simple project simulating an online courses platform with modules and videos, built with React, Tailwind, Radix UI, and Redux/Zustand. Developed for study purposes during the React + Redux + Zustand course offered in Ignite React ([Rocketseat](https://www.rocketseat.com.br/)).
+   This is a simple project simulating an online courses platform with modules and videos, built with React, Tailwind, Radix UI, and Redux/Zustand. Developed for study purposes during the React + Redux + Zustand course offered in Ignite React (<a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a>).
 </p>
 
 ## 👩🏻‍💻 Technologies
