@@ -1,6 +1,5 @@
 <h1 align="center">
   React + Redux + Zustand Course
-  <hr />
 </h1>
 
 <p align="center">
@@ -19,7 +18,6 @@
 
 <p align="center">
   <a href="#-about-the-project">About the project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-preview">Preview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-getting-started">Getting started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -47,7 +45,7 @@ Technologies used to develop this project:
 
 ## 🖥 Preview
 
-
+https://github.com/amanda-santos/react-redux-zustand-course/assets/49074930/6cee000a-d49c-422b-8842-ff601abc029e
 
 ## ⌨ Getting started
 
